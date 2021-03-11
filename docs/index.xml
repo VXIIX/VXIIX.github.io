@@ -8,16 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://VXIIX-github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Post 1</title>
-      <link>https://VXIIX-github.io/docs/post-1/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://VXIIX-github.io/docs/post-1/</guid>
-      <description>Contenido post 1</description>
-    </item>
-    
-    <item>
-      <title>Ejemplo Shortcodes</title>
+      <title>- Ejemplo Shortcodes</title>
       <link>https://VXIIX-github.io/docs/ejemplo/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
@@ -26,12 +17,39 @@
     </item>
     
     <item>
-      <title>Ejemplos Markdown</title>
+      <title>- Ejemplos Markdown</title>
       <link>https://VXIIX-github.io/docs/markdown/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://VXIIX-github.io/docs/markdown/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>- Algunas cosas de mi :)</title>
+      <link>https://VXIIX-github.io/docs/post-1/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://VXIIX-github.io/docs/post-1/</guid>
+      <description>Contenido post 1</description>
+    </item>
+    
+    <item>
+      <title>- Ross Lovegrove</title>
+      <link>https://VXIIX-github.io/docs/ross-lovegrove/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://VXIIX-github.io/docs/ross-lovegrove/</guid>
+      <description>Ross Lovegrove</description>
+    </item>
+    
+    <item>
+      <title>- Ron Arad</title>
+      <link>https://VXIIX-github.io/docs/ron-arad/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://VXIIX-github.io/docs/ron-arad/</guid>
+      <description>Ron Arad</description>
     </item>
     
   </channel>
